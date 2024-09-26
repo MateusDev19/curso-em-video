@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(80, 255, 147);
+    text-align: justify;
+}
+header {
+    text-align: center;
+    color: white;
+    /* Permalink - use to edit and share this gradient. Link permanente - use para editar e compartilhar este gradiente: https://colorzilla.com/gradient-editor/#b4ddb4+0,83c783+17,52b152+33,008a00+67,005700+83,002400+100;Green+3D+%231 */
+    background: linear-gradient(to bottom,#83c783 2%,#52b152 25%,#008a00 67%,#005700c5 83%,#002400b9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+         
+}
+#menu {
+    text-align: justify;
+    
+}
+footer{
+    background-color: rgb(1, 49, 1);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
